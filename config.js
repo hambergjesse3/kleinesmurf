@@ -18,7 +18,7 @@ window.LINKS_CONFIG = {
     backgroundType: "image",
     backgroundColor: "#e72020",
     backgroundColor2: "#1f0eb1",
-    backgroundImageUrl: "https://github.com/hambergjesse3/kleinesmurf/blob/main/background.webp",
+    backgroundImageUrl: "https://raw.githubusercontent.com/hambergjesse3/kleinesmurf/main/background.webp",
 
     // Kleuren
     accent: "#ff4646",

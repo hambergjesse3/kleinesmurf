@@ -16,7 +16,7 @@ window.LINKS_CONFIG = {
 
     // Achtergrond: "gradient", "solid" of "image"
     backgroundType: "image",
-    backgroundColor: "#e72020",
+    backgroundColor: "#e72100",
     backgroundColor2: "#1f0eb1",
     backgroundImageUrl: "https://raw.githubusercontent.com/hambergjesse3/kleinesmurf/main/background.webp",
 

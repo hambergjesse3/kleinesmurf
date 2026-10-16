@@ -4,7 +4,7 @@ window.LINKS_CONFIG = {
     name: "Kleine Smurf's Links",
     username: "",
     bio: "Welkom op mijn pagina. Hier vind je al mijn links.",
-    avatar: "https://github.com/hambergjesse3/kleinesmurf/blob/main/avatar.webp",
+    avatarUrl: "https://github.com/hambergjesse3/kleinesmurf/blob/main/avatar.webp",
     showUsername: true,
     showBio: true,
     verified: false
@@ -18,7 +18,7 @@ window.LINKS_CONFIG = {
     backgroundType: "image",
     backgroundColor: "#e72020",
     backgroundColor2: "#1f0eb1",
-    backgroundImage: "https://github.com/hambergjesse3/kleinesmurf/blob/main/background.webp",
+    backgroundImageUrl: "https://github.com/hambergjesse3/kleinesmurf/blob/main/background.webp",
 
     // Kleuren
     accent: "#ff4646",

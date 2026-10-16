@@ -108,7 +108,7 @@
     root.style.setProperty("--page-background", background1);
     root.style.setProperty(
       "--page-image",
-      `url("${String(a.backgroundImage || "assets/background.webp")
+      `url("${String(a.backgroundImageUrl || "background.webp")
         .replace(/["\\\n\r]/g, "")}")`
     );
 

@@ -15,7 +15,6 @@ window.LINKS_CONFIG = {
     theme: "dark",
 
     // Achtergrond: "gradient", "solid" of "image"
-    backgroundType: "image",
     backgroundImageUrl: "./background.webp",
 
     // Kleuren
